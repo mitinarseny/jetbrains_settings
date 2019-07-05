@@ -4,4 +4,8 @@
     <option name="MOVE_ALL_STDLIB_IMPORTS_IN_ONE_GROUP" value="true" />
     <option name="GROUP_STDLIB_IMPORTS" value="true" />
   </GoCodeStyleSettings>
+  <Python>
+    <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
+    <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
+  </Python>
 </code_scheme>
