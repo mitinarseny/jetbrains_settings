@@ -6,6 +6,7 @@
       <mapping ext="dev" type="Dockerfile" />
       <mapping ext="dockerignore" type="IgnoreLang file" />
       <mapping ext="jupyterlab-settings" type="JSON" />
+      <mapping pattern="themes.jupyterlab-settings" type="JSON5" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
