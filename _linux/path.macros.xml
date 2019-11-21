@@ -1,5 +1,0 @@
-<application>
-  <component name="PathMacrosImpl">
-    <macro name="KOTLIN_BUNDLED" value="/opt/idea-IU-192.7142.36/plugins/Kotlin/kotlinc" />
-  </component>
-</application>

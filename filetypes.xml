@@ -2,26 +2,25 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="dev" type="Dockerfile" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="dockerignore" type="IgnoreLang file" />
       <mapping ext="jupyterlab-settings" type="JSON" />
       <mapping pattern="themes.jupyterlab-settings" type="JSON5" />
+      <mapping ext="tplx" type="Jinja2" />
       <mapping pattern="unicode.tplx" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="jupyter-nbconvert" type="Python" />
+      <mapping pattern="jupyter_nbconvert_config.py" type="PythonStub" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <mapping ext="tplx" type="Jinja2" />
       <mapping pattern=".gitexcludes" type="Git file" />
-      <mapping pattern="jupyter-nbconvert" type="Python" />
-      <mapping pattern="jupyter_nbconvert_config.py" type="PythonStub" />
     </extensionMap>
   </component>
 </application>
