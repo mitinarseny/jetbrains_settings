@@ -124,8 +124,13 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="vertica">
-      <artifact name="Vertica" use="true" />
+      <artifact name="Vertica" use="true" version="9.2.0" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
   </component>
 </application>
